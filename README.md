@@ -1,7 +1,7 @@
 # Blablacar_Analysis
-This report is aiming at practicing to use different machine learning skills and algorithms on real-world data.
-In this report, Random Forest, Decision Tree, Adaboost, SVM, Voting method and Neural network have been used for pricing model.
-Besides, k-means method and linear regression were applied for market analysis and causal inference.
+This report is aiming at using different machine learning skills and algorithms on real-world data.
+In this report, `Random Forest`, `Decision Tree`, `Adaboost`, `SVM`, `Voting method` and `Neural network` have been used for pricing model.
+Besides, `k-means method` and `linear regression` were applied for market analysis and causal inference.
 
 ![image](Blablacar_image.jpg)
 
