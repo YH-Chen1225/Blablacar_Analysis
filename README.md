@@ -1,5 +1,5 @@
 # Blablacar_Analysis
-This report is aiming at using different machine learning skills and algorithms on Blabla car real-world data to do a data-driven marketing analysis.
+This report is aiming at using different machine learning skills and algorithms on Blablacar real-world data to do a data-driven marketing analysis.
 In this report, `Random Forest`, `Decision Tree`, `Adaboost`, `SVM`, `Voting method` and `Neural network` have been used for pricing model.
 Besides, `k-means method` and `linear regression` were applied for market analysis and causal inference.
 
